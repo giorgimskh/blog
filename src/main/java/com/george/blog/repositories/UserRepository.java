@@ -1,4 +1,4 @@
-package com.george.blog.domain.repositories;
+package com.george.blog.repositories;
 
 import com.george.blog.domain.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
